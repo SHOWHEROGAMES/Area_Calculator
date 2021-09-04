@@ -9,7 +9,7 @@ body{
     color:yellowgreen;
     text-decoration:underline;
   }
-  #button{
+  .button{
     font-size:20px;
     color:red;
     font-weight:bold;
