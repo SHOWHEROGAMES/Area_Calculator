@@ -1,3 +1,3 @@
 function calculate(){
-    document.getElementById("textbox")
+    document.getElementById("textbox").value
   }
